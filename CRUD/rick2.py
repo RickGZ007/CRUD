@@ -1,5 +1,4 @@
-# Nome: Ricardo Alberto Gonzalez Cedeno,  Curso: Analise e Desenvolvimento de Sistemas
-# Somativa 2
+
 
 import json
 
